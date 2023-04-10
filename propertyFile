@@ -1,0 +1,10 @@
+number=9561041505a
+password=Nitin@123
+user=Nitin
+homePageURL=http://stage.wobb.ai/app/campaigns
+expectedCampaignNameErrorMsg=This is a required field
+expectedPlatformErrorMsg=This is a required field
+expectedDeliverablesErrorMsg=This is a required field
+expectedCategoriesErrorMsg=Please choose at least one category
+expectedInfluencerRequiredErrorMsg=Please enter number of influencers
+enterCampaignName=LearnMarket
